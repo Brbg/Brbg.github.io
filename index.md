@@ -1,16 +1,15 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: Brbg
 ---
 
-A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+This is a test website using GitHub pages to test:
 
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
+* The viability of using such a service to host a landing site
+* The functionalities available in this service
+* Im just listing stuff at this point
 
-## Setup Guide
+## Despite widespread speculation, Brbg does not like men
 
 ### Create a repository from this template
 
